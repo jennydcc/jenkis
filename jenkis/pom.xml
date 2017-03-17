@@ -23,6 +23,15 @@
     </dependency>
   </dependencies>
   
+  <scm>
+    <connection>scm:git:https://https://github.com/jennydcc/jenkis.git</connection>
+    <developerConnection>scm:git:https://${username}:${password}@github.com/jennydcc/jenkis.git</developerConnection>
+    <url>scm:git:https://https://github.com/jennydcc/jenkis.git</url>
+    <tag>HEAD</tag>
+</scm>
+  
+  
+  
   <distributionManagement>
     <repository>
         <id>nexus</id>
