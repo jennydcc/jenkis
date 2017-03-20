@@ -56,7 +56,7 @@
 					<artifactId>maven-release-plugin</artifactId>
 					<version>2.5</version>
 					<configuration> 
-					    <failOnMissingWebXml>false</failOnMissingWebXml> 
+					    <Webxml>src\main\webapp\WEB-INF\web.xml</Webxml> 
 					</configuration>
 					<dependencies>
 						<dependency>
