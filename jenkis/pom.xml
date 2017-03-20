@@ -5,9 +5,9 @@
   <groupId>pe.grupobbva.jenkis</groupId>
   <artifactId>jenkis</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
-  <name>jenkis</name>
+  <name>jenkis web</name>
   <url>http://maven.apache.org</url>
 
   <properties>
