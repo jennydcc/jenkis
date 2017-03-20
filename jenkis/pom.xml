@@ -26,7 +26,7 @@
 			<groupId>javax</groupId>
 			<artifactId>javaee-web-api</artifactId>
 			<version>7.0</version>
-		</dependency>
+    </dependency>
 		
   </dependencies>
   
@@ -35,7 +35,7 @@
     <developerConnection>scm:git:https://${username}:${password}@github.com/jennydcc/jenkis.git</developerConnection>
     <url>scm:git:https://github.com/jennydcc/jenkis.git</url>
     <tag>HEAD</tag>
-</scm>
+  </scm>
       
   <distributionManagement>
     <repository>
