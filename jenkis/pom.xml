@@ -4,7 +4,7 @@
 
   <groupId>pe.grupobbva.jenkis</groupId>
   <artifactId>jenkis</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.1-SNAPSHOT</version>
   <packaging>war</packaging>
 
   <name>jenkis web</name>
